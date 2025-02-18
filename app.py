@@ -16,7 +16,7 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 
 # JSON 文件和卡牌图片文件夹路径
 json_file_path = os.path.join(current_dir, 'file_name_to_display.json')  # JSON 文件路径
-folder_path = os.path.join(current_dir, '888')  # 卡牌图片文件夹路径
+folder_path = os.path.join(current_dir, 'chanchankapai')  # 卡牌图片文件夹路径
 
 # 检查是否以管理员模式运行
 def is_admin():
